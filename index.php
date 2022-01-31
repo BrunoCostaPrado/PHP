@@ -7,6 +7,8 @@
     <title>PHP</title>
 </head>
 <body>
-    
+    <?php
+    echo "Ola, Mundo!";
+    ?>
 </body>
 </html>
